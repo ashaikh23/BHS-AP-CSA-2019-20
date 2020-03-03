@@ -1,0 +1,13 @@
+public abstract class Celsius extends Generictemperature {
+	public double temperatureCelsuis;
+	public Celsius(double tC){
+		this.temperatureCelsuis = tC;
+		super(tK);
+		
+	}
+	
+	public double getC(){
+		temperatureCelsuis = temperatureKelvin + 273.15;
+		return temperatureCelsuis;
+	}
+}
