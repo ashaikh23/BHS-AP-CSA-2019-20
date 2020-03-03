@@ -1,0 +1,14 @@
+public abstract class Fahrenheit extends Generictemperature {
+	public double tempFahrenheit;
+	public double testFahrenheit;
+	public double temperatureKelvin;
+	public Fahrenheit(double tK, double tF, double tC, double sT) {
+		super(tK);
+		this.tempFahrenheit = tF;
+	}
+
+	public double getF(){
+		tempFahrenheit = ((testFahrenheit − 32)5/9) + 273.15);
+		return tempFahrenheit;
+	}
+}
