@@ -1,0 +1,7 @@
+public abstract class Generictemperature implements Unit{
+	double temperatureKelvin;
+	
+	public Generictemperature(double tK){
+		this.temperatureKelvin = tK;
+	}
+}
