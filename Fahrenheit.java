@@ -1,23 +1,19 @@
 public class Fahrenheit extends GenericTemperature {
-	public Fahrenheit(double tK, double tF, double tC, double sT){
-		super(tK, tF, tC, sT);
-		this.startTemp = sT;
+	public Fahrenheit(double sT){
+		super(sT);
 	}
 	
 	public double getK(){
-		temperatureKelvin = startTemp;
-		return temperatureKelvin;
+		return Math.round((startTemp - 32) * 5/9) + 273.15;
+    //(0°F − 32) × 5/9 + 273.15 = 273.15K
 	}
 	public double getC(){
-		temperatureCelsuis = temperatureKelvin - 273.15;
-		return temperatureCelsuis;
+		return Math.round(startTemp - 32)*5/9;
+    //(32°F − 32) × 5/9 = 0°C
+
 	}
 	public double getF(){
-		temperatureFahrenheit = (((temperatureKelvin - 273.15)*1.8)+32);
-    //remove this. if no rounding required
-    this.temperatureFahrenheit = Math.round(temperatureFahrenheit);
-    //remove this.
-		return this.temperatureFahrenheit;
+		return Math.round(startTemp);
 	}
 	
 	public String toString(){
