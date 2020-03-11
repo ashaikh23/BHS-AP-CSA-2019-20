@@ -1,13 +1,11 @@
 public abstract class GenericTemperature implements Temperature{
-	double temperatureKelvin;
-	double temperatureFahrenheit;
-	double temperatureCelsuis;
-  	double startTemp;
+  double startTemp;
 	
-	public GenericTemperature(double tK, double tF, double tC, double sT){
-		temperatureKelvin = tK;
-		temperatureFahrenheit = tF;
-		temperatureCelsuis = tC;
-		this.startTemp = sT;	
+	public GenericTemperature(double sT){
+		this.startTemp = sT;
 	}
+
+  public double getstartTemp(){
+    return startTemp;
+  }
 }
