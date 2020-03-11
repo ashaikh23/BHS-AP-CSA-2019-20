@@ -21,6 +21,6 @@ public class Celsius extends GenericTemperature {
 	}
 	
 	public String toString(){
-		return "The temperature for Celsius is " + getK() + " K " + getC() + " C " + getF() + " F";
+		return getK() + " K " + getC() + " C " + getF() + " F";
 	}
 }
