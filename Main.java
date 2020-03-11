@@ -1,11 +1,11 @@
 class Main {
   public static void main(String[] args) {
-    Kelvin k = new Kelvin(500, 0, 0, 0);
-    Fahrenheit f = new Fahrenheit(500, 0, 0, 0);
-		Celsius c = new Celsius(500, 0, 0, 0);
+    Kelvin k = new Kelvin(500);
+    Fahrenheit f = new Fahrenheit(50.6);
+		Celsius c = new Celsius(50.2);
 
-    System.out.println(k);
-    System.out.println(f);
-		System.out.println(c);
+    System.out.println(k.toString());
+    System.out.println(f.toString());
+		System.out.println(c.toString());
   }
 }
