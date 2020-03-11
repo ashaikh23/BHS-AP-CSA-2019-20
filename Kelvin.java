@@ -1,7 +1,6 @@
 public class Kelvin extends GenericTemperature {
 	public Kelvin(double tK, double tF, double tC, double sT){
 		super(tK, tF, tC, sT);
-		this.startTemp = sT;
 	}
 	
 	public double getK(){
@@ -21,6 +20,6 @@ public class Kelvin extends GenericTemperature {
 	}
 	
 	public String toString(){
-		return "The temperature for Kelvin is " + getK() + " K " + getC() + " C " + getF() + " F";
+		return getK() + " K " + getC() + " C " + getF() + " F";
 	}
 }
