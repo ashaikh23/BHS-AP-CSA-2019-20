@@ -21,6 +21,6 @@ public class Fahrenheit extends GenericTemperature {
 	}
 	
 	public String toString(){
-		return "The temperature for Fahrenheit is " + getK() + " K " + getC() + " C " + getF() + " F";
+		return getK() + " K " + getC() + " C " + getF() + " F";
 	}
 }
