@@ -17,6 +17,7 @@ public class Main {
 		 * calculation
 		 * 0 = totalPages - (((wpm)(x))/100);
 		 */	
+		
 		calc = ((totalPages * wordsPerPage) / wpm);	
 		response = "It will take you: ";
 		endResponse = "hours to create your paper";
