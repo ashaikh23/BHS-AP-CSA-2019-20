@@ -13,3 +13,7 @@ Door: Create a Door program that includes attributes for style of door with size
 Temperature: Program that takes the temperature in Fahrenheit, Celsius and Kelvin.
 Dice for Dummies (W/Partner): Simple roll the dice game
 
+| Java Assisgnements | Descriptions |
+| ------------- | ------------- |
+| Random Number Generator | Random Number Generator Program  |
+| Coin Flipping Game Longest Streak  | Tells the longest streak of letters within a string   |
