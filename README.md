@@ -17,7 +17,7 @@ Dice for Dummies (W/Partner): Simple roll the dice game
 | Java Assisgnements | Descriptions |
 | ------------- | ------------- |
 | Random Number Generator | Random Number Generator Program  |
-| Coin Flipping Game|xxx |  
+| Coin Flipping Game|*Not Uploaded|  
 | Longest Streak  | Tells the longest streak of letters within a string   |
 | Greatest Common Factor by Recursion |  Finds the Greatest Common Factor By Recursion Recursion: Uses recursion to return values|  
 | For-Each Loop / Static Method | Use a for-each loop to copy numbers and print array|  
