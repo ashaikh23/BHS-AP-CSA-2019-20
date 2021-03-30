@@ -17,3 +17,4 @@ Dice for Dummies (W/Partner): Simple roll the dice game
 | ------------- | ------------- |
 | Random Number Generator | Random Number Generator Program  |
 | Coin Flipping Game Longest Streak  | Tells the longest streak of letters within a string   |
+s
