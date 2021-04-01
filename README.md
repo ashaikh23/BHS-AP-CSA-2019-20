@@ -31,5 +31,6 @@ Note if the file is in master and it ends with ".java" the title needs to be ren
 | Door | Create a Door program that includes attributes for style of door with size| 
 | Temperature | Program that takes the temperature in Fahrenheit, Celsius and Kelvin| 
 | Email | *Old version (Not working)| 
-|recursion|Uses recursion to return numbers |
+| Recursion|Uses recursion to return numbers |
+| Student | Get's name and number of test with scores of tests to get average  |
 | Dice for Dummies (W/Partner) | Simple roll the dice game| 
