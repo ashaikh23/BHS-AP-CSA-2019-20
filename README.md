@@ -30,5 +30,5 @@ Note if the file is in master and it ends with ".java" the title needs to be ren
 | Pets Inheritance | Uses Inheritance to setup dog and cat pet types | 
 | Door | Create a Door program that includes attributes for style of door with size| 
 | Temperature | Program that takes the temperature in Fahrenheit, Celsius and Kelvin| 
-| Email | *Old version| 
+| Email | *Old version (Not working)| 
 | Dice for Dummies (W/Partner) | Simple roll the dice game| 
