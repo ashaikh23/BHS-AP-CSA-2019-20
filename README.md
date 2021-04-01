@@ -1,5 +1,7 @@
 # BHS-AP-CSA-2019-20
 
+Assignments from Advanced Placement Computer Science A class
+
 Random Number Generator:	Random Number Generator Program
 Coin Flipping Game 
 Longest Streak: Tells the longest streak of letters within a string 
