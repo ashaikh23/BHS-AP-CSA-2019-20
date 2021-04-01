@@ -20,7 +20,6 @@ Note if the file is in master and it ends with ".java" the title needs to be ren
 | ------------- | ------------- |
 | Print and Input | Get's user input and says hello with user input |
 | Random Number Generator | Random Number Generator Program  |
-| Coin Flipping Game|*Not Uploaded|  
 | Longest Streak  | Tells the longest streak of letters within a string   |
 | Greatest Common Factor by Recursion |  Finds the Greatest Common Factor By Recursion Recursion: Uses recursion to return values|  
 | For-Each Loop and Static Method | Use a for-each loop to copy numbers and print array|  
@@ -32,6 +31,7 @@ Note if the file is in master and it ends with ".java" the title needs to be ren
 | Door | Create a Door program that includes attributes for style of door with size| 
 | Temperature | Program that takes the temperature in Fahrenheit, Celsius and Kelvin| 
 | Email | *Old version (Not working)| 
+| Ball Cup Game|*Old version (Not working)|  
 | Recursion|Uses recursion to return numbers |
 | Student | Get's name and number of test with scores of tests to get average  |
 | Dice for Dummies (W/Partner) | Simple roll the dice game| 
