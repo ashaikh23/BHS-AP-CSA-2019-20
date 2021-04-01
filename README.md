@@ -22,7 +22,7 @@ Note if the file is in master and it ends with ".java" the title needs to be ren
 | Coin Flipping Game|*Not Uploaded|  
 | Longest Streak  | Tells the longest streak of letters within a string   |
 | Greatest Common Factor by Recursion |  Finds the Greatest Common Factor By Recursion Recursion: Uses recursion to return values|  
-| For-Each Loop / Static Method | Use a for-each loop to copy numbers and print array|  
+| For-Each Loop and Static Method | Use a for-each loop to copy numbers and print array|  
 | Binary Search | implements Binary Search for the target value in array|  
 | Array | Prints the value of the array transverses it to print|  
 | Wrapper class | Uses wrapper class to add numbers| 
