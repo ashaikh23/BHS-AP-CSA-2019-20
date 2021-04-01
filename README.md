@@ -31,6 +31,7 @@ Note if the file is in master and it ends with ".java" the title needs to be ren
 | Door | Create a Door program that includes attributes for style of door with size| 
 | Temperature | Program that takes the temperature in Fahrenheit, Celsius and Kelvin| 
 | Email | *Old version (Not working)| 
+| Vehicle | *Old version (Not working)|
 | Ball Cup Game|*Old version (Not working)|  
 | Recursion|Uses recursion to return numbers |
 | Student | Get's name and number of test with scores of tests to get average  |
