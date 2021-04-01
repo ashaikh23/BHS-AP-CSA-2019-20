@@ -18,6 +18,7 @@ Note if the file is in master and it ends with ".java" the title needs to be ren
 
 | Java Assisgnements | Descriptions |
 | ------------- | ------------- |
+| Print and Input | Get's user input and says hello with user input |
 | Random Number Generator | Random Number Generator Program  |
 | Coin Flipping Game|*Not Uploaded|  
 | Longest Streak  | Tells the longest streak of letters within a string   |
