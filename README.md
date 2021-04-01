@@ -14,6 +14,8 @@ Door: Create a Door program that includes attributes for style of door with size
 Temperature: Program that takes the temperature in Fahrenheit, Celsius and Kelvin.
 Dice for Dummies (W/Partner): Simple roll the dice game
 
+Note if the file is in master and it ends with ".java" the title needs to be renamed as "Main.java" in order to run.
+
 | Java Assisgnements | Descriptions |
 | ------------- | ------------- |
 | Random Number Generator | Random Number Generator Program  |
